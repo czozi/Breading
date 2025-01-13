@@ -2,8 +2,12 @@
 #### Breading is a file format and a Node.JS library made for the sole purpouse of allowing you to read .txt and .bread files and making them global variables.
 ##### This is Open-Source and anyone willing to add/help can. Support is appreciated and you will be put on the wall of Bakers.
 
-[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white])](https://www.npmjs.com/package/breading)
+[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white])](https://www.npmjs.com/package/breading) **<-- PRESS ME**
+
+Documentation coming soon.
 
 # Wall of Bakers:
 #### Czozi
 #### parties
+
+### *This project is owned and operated by the Czozi Coding Club, not Czoziland*
