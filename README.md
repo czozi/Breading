@@ -5,7 +5,5 @@
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white])](https://www.npmjs.com/package/breading)
 
 # Wall of Bakers:
-#### HastDu
-#### Bamhurgerdog
-#### psychobud
-#### Vedriio
+#### Czozi
+#### parties
